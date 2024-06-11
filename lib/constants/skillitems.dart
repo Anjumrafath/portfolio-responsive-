@@ -3,7 +3,7 @@ import 'dart:core';
 const List<Map> platformItems = [
   {
     "img": "assets/fl.jpg",
-    "title": "Flutter Developer",
+    "title": "Flutter Developer Intern",
   },
   {
     "img": "assets/az.jpg",
